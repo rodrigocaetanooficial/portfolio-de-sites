@@ -28,10 +28,30 @@ Este repositório serve como uma vitrine simplificada do meu trabalho como desen
 
 Abaixo estão exemplos de sites criados e entregues aos clientes:
 
-- 🌐 [**Nome do Cliente / Projeto 1**](https://url-do-cliente-1.com.br) - *Site Institucional*
-- 🛒 [**Nome do Cliente / Projeto 2**](https://url-do-cliente-2.com.br) - *Loja Virtual*
-- 📄 [**Nome do Cliente / Projeto 3**](https://url-do-cliente-3.com.br) - *Landing Page*
-- 📝 [**Nome do Cliente / Projeto 4**](https://url-do-cliente-4.com.br) - *Blog Corporativo*
+- 🌐 [**Alchemy Recruitment**](https://www.alchemyrecruitment.com.au)
+- 🌐 [**Arquitetos Urbanistas**](https://www.arq-urb.com/)
+- 🌐 [**Blog do Inexistent Man**](https://www.inexistentman.net/)
+- 🌐 [**BRV360**](https://www.brv360.com)
+- 🌐 [**Caetano Bilhar**](https://www.caetanobilhar.com.br/)
+- 🌐 [**Clínica Carlos Gomes**](https://www.clinicacarlosgomes.med.br)
+- 🌐 [**Criativo de Galochas**](http://www.criativodegalochas.com.br/)
+- 🌐 [**Digital Copy Soluções**](http://www.digitalcopysolucoes.com/)
+- 🌐 [**Egecon**](https://www.egecongarantidora.com)
+- 🌐 [**Engeferr Estruturas Metálicas**](https://www.engeferr.com)
+- 🌐 [**Elite Printers**](https://www.eliteprinters.com.br/)
+- 🌐 [**Fisioterapeuta Claudia Caetano**](https://www.claudiacaetano.fst.br/)
+- 🌐 [**Gobbi & Lanziotti Cobranças e Assessoria Jurídica**](https://www.gobbilanziotti.com.br/)
+- 🌐 [**Gráfica Moreno**](https://www.graficamoreno.com.br)
+- 🌐 [**Imóveis Comerciais SP**](https://www.imoveiscomerciaissp.com.br)
+- 🌐 [**Integra Psicologia**](https://www.integrapsicologia.com.br)
+- 🌐 [**Maringá Manchete**](https://www.maringamanchete.com.br/)
+- 🌐 [**Pavan Fotografia**](http://www.mvpavan.com.br/)
+- 🌐 [**Plantão Maringá**](https://www.plantaomaringa.com)
+- 🌐 [**Podologia Cláudia Caetano**](https://www.podologamaringa.com.br)
+- 🌐 [**Podologista Elaine Amaral**](https://www.maringapodologia.com.br/)
+- 🌐 [**Prospec Brindes**](https://www.prospecbrindes.com.br)
+- 🌐 [**Sepultados.com**](https://www.sepultados.com/)
+- 🌐 [**TextWizard**](https://www.textwizard.tools)
 
 *(Para adicionar mais projetos, basta seguir o formato acima adicionando uma nova linha de lista)*
 
