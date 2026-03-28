@@ -37,7 +37,7 @@ Abaixo estão de sites criados e entregues aos clientes:
 - 🌐 [**Criativo de Galochas**](http://www.criativodegalochas.com.br/)
 - 🌐 [**Digital Copy Soluções**](http://www.digitalcopysolucoes.com/)
 - 🌐 [**DigitalDreams FM**](http://www.digitaldreamsfm.com/)
-- 🌐 [**DigitalDreams FM App**]([http://www.digitaldreamsfm.com/](https://play.google.com/store/apps/details?id=com.digitaldreamsfm.player)
+- 🌐 [**DigitalDreams FM App**](http://www.digitaldreamsfm.com/](https://play.google.com/store/apps/details?id=com.digitaldreamsfm.player)
 - 🌐 [**Egecon**](https://www.egecongarantidora.com)
 - 🌐 [**Engeferr Estruturas Metálicas**](https://www.engeferr.com)
 - 🌐 [**Elite Printers**](https://www.eliteprinters.com.br/)
