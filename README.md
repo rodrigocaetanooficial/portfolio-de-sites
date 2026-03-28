@@ -30,43 +30,50 @@ Este repositório serve como uma vitrine publicamente acessível do meu trabalho
 
 <table>
   <tr>
-    <!-- Primeiro Site -->
-    <td align="center">
+    <!-- 1º Site -->
+    <td align="center" width="33%">
       <a href="URL_DO_SITE_AQUI">
-        <img src="assets/exemplo-1.png" width="400px;" alt="Nome do Site 1"/><br />
+        <img src="assets/exemplo-1.png" width="100%" alt="Nome do Site 1"/><br />
         <b>Nome do Site 1</b>
-      </a>
-      <br />
-      <i>Site Institucional</i>
+      </a><br><i>Site Institucional</i>
     </td>
-    <!-- Segundo Site -->
-    <td align="center">
+    <!-- 2º Site -->
+    <td align="center" width="33%">
       <a href="URL_DO_SITE_AQUI">
-        <img src="assets/exemplo-2.png" width="400px;" alt="Nome do Site 2"/><br />
+        <img src="assets/exemplo-2.png" width="100%" alt="Nome do Site 2"/><br />
         <b>Nome do Site 2</b>
-      </a>
-      <br />
-      <i>Loja Virtual</i>
+      </a><br><i>Loja Virtual</i>
+    </td>
+    <!-- 3º Site -->
+    <td align="center" width="33%">
+      <a href="URL_DO_SITE_AQUI">
+        <img src="assets/exemplo-3.png" width="100%" alt="Nome do Site 3"/><br />
+        <b>Nome do Site 3</b>
+      </a><br><i>Landing Page</i>
     </td>
   </tr>
+  <!-- Para ir para a linha de baixo, abra um novo grupo <tr> como este abaixo -->
   <tr>
-    <!-- Terceiro Site -->
-    <td align="center">
+    <!-- 4º Site -->
+    <td align="center" width="33%">
       <a href="URL_DO_SITE_AQUI">
-        <img src="assets/exemplo-3.png" width="400px;" alt="Nome do Site 3"/><br />
-        <b>Nome do Site 3</b>
-      </a>
-      <br />
-      <i>Landing Page</i>
-    </td>
-    <!-- Quarto Site -->
-    <td align="center">
-      <a href="URL_DO_SITE_AQUI">
-        <img src="assets/exemplo-4.png" width="400px;" alt="Nome do Site 4"/><br />
+        <img src="assets/exemplo-4.png" width="100%" alt="Nome do Site 4"/><br />
         <b>Nome do Site 4</b>
-      </a>
-      <br />
-      <i>Blog / Portal</i>
+      </a><br><i>Blog / Portal</i>
+    </td>
+    <!-- 5º Site -->
+    <td align="center" width="33%">
+      <a href="URL_DO_SITE_AQUI">
+        <img src="assets/exemplo-5.png" width="100%" alt="Nome do Site 5"/><br />
+        <b>Nome do Site 5</b>
+      </a><br><i>Página de Vendas</i>
+    </td>
+    <!-- 6º Site (Se não tiver ainda, pode deixar em branco ou apagar o <td>) -->
+    <td align="center" width="33%">
+      <a href="URL_DO_SITE_AQUI">
+        <img src="assets/exemplo-6.png" width="100%" alt="Nome do Site 6"/><br />
+        <b>Nome do Site 6</b>
+      </a><br><i>Site Institucional</i>
     </td>
   </tr>
 </table>
