@@ -63,8 +63,8 @@ Gostou do meu trabalho ou possui um desafio de desenvolvimento? Entre em contato
 
 - 🌐 [ViaWeb (Meu Site)](https://www.viaweb.pro/)
 - ✉️ Email: contato@viaweb.pro
-- 📱 WhatsApp: (Seu Número)
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
+- 📱 WhatsApp: [**(44) 99898-2168**](https://wa.me/5544998982168)
+- 💼 [LinkedIn](https://linkedin.com/in/rodrigocaetanooficial)
 
 <br>
 
