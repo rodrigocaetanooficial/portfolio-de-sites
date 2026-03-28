@@ -12,7 +12,7 @@
 
 ## 💻 Sobre Este Repositório
 
-Este repositório serve como uma vitrine publicamente acessível do meu trabalho como desenvolvedor web. Aqui estão listados alguns dos principais projetos que desenvolvi, variando desde sites institucionais até lojas virtuais e blogs.
+Este repositório serve como uma vitrine simplificada do meu trabalho como desenvolvedor web. Aqui estão listados alguns dos principais projetos que desenvolvi, variando desde sites institucionais até lojas virtuais e blogs.
 
 ## 🚀 Minhas Especialidades & Ferramentas
 
@@ -24,59 +24,16 @@ Este repositório serve como uma vitrine publicamente acessível do meu trabalho
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Clientes e Projetos
 
-*(Exemplo de layout utilizando uma tabela HTML no Markdown para exibir os projetos em colunas!)*
+Abaixo estão exemplos de sites criados e entregues aos clientes:
 
-<table>
-  <tr>
-    <!-- 1º Site -->
-    <td align="center" width="33%">
-      <a href="URL_DO_SITE_AQUI">
-        <img src="assets/exemplo-1.png" width="100%" alt="Nome do Site 1"/><br />
-        <b>Nome do Site 1</b>
-      </a><br><i>Site Institucional</i>
-    </td>
-    <!-- 2º Site -->
-    <td align="center" width="33%">
-      <a href="URL_DO_SITE_AQUI">
-        <img src="assets/exemplo-2.png" width="100%" alt="Nome do Site 2"/><br />
-        <b>Nome do Site 2</b>
-      </a><br><i>Loja Virtual</i>
-    </td>
-    <!-- 3º Site -->
-    <td align="center" width="33%">
-      <a href="URL_DO_SITE_AQUI">
-        <img src="assets/exemplo-3.png" width="100%" alt="Nome do Site 3"/><br />
-        <b>Nome do Site 3</b>
-      </a><br><i>Landing Page</i>
-    </td>
-  </tr>
-  <!-- Para ir para a linha de baixo, abra um novo grupo <tr> como este abaixo -->
-  <tr>
-    <!-- 4º Site -->
-    <td align="center" width="33%">
-      <a href="URL_DO_SITE_AQUI">
-        <img src="assets/exemplo-4.png" width="100%" alt="Nome do Site 4"/><br />
-        <b>Nome do Site 4</b>
-      </a><br><i>Blog / Portal</i>
-    </td>
-    <!-- 5º Site -->
-    <td align="center" width="33%">
-      <a href="URL_DO_SITE_AQUI">
-        <img src="assets/exemplo-5.png" width="100%" alt="Nome do Site 5"/><br />
-        <b>Nome do Site 5</b>
-      </a><br><i>Página de Vendas</i>
-    </td>
-    <!-- 6º Site (Se não tiver ainda, pode deixar em branco ou apagar o <td>) -->
-    <td align="center" width="33%">
-      <a href="URL_DO_SITE_AQUI">
-        <img src="assets/exemplo-6.png" width="100%" alt="Nome do Site 6"/><br />
-        <b>Nome do Site 6</b>
-      </a><br><i>Site Institucional</i>
-    </td>
-  </tr>
-</table>
+- 🌐 [**Nome do Cliente / Projeto 1**](https://url-do-cliente-1.com.br) - *Site Institucional*
+- 🛒 [**Nome do Cliente / Projeto 2**](https://url-do-cliente-2.com.br) - *Loja Virtual*
+- 📄 [**Nome do Cliente / Projeto 3**](https://url-do-cliente-3.com.br) - *Landing Page*
+- 📝 [**Nome do Cliente / Projeto 4**](https://url-do-cliente-4.com.br) - *Blog Corporativo*
+
+*(Para adicionar mais projetos, basta seguir o formato acima adicionando uma nova linha de lista)*
 
 ---
 
