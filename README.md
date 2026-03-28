@@ -26,7 +26,7 @@ Este repositório serve como uma vitrine simplificada do meu trabalho como desen
 
 ## 📂 Clientes e Projetos
 
-Abaixo estão exemplos de sites criados e entregues aos clientes:
+Abaixo estão de sites criados e entregues aos clientes:
 
 - 🌐 [**Alchemy Recruitment**](https://www.alchemyrecruitment.com.au)
 - 🌐 [**Arquitetos Urbanistas**](https://www.arq-urb.com/)
@@ -36,6 +36,8 @@ Abaixo estão exemplos de sites criados e entregues aos clientes:
 - 🌐 [**Clínica Carlos Gomes**](https://www.clinicacarlosgomes.med.br)
 - 🌐 [**Criativo de Galochas**](http://www.criativodegalochas.com.br/)
 - 🌐 [**Digital Copy Soluções**](http://www.digitalcopysolucoes.com/)
+- 🌐 [**DigitalDreams FM**](http://www.digitaldreamsfm.com/)
+- 🌐 [**DigitalDreams FM App**]([http://www.digitaldreamsfm.com/](https://play.google.com/store/apps/details?id=com.digitaldreamsfm.player)
 - 🌐 [**Egecon**](https://www.egecongarantidora.com)
 - 🌐 [**Engeferr Estruturas Metálicas**](https://www.engeferr.com)
 - 🌐 [**Elite Printers**](https://www.eliteprinters.com.br/)
@@ -52,8 +54,6 @@ Abaixo estão exemplos de sites criados e entregues aos clientes:
 - 🌐 [**Prospec Brindes**](https://www.prospecbrindes.com.br)
 - 🌐 [**Sepultados.com**](https://www.sepultados.com/)
 - 🌐 [**TextWizard**](https://www.textwizard.tools)
-
-*(Para adicionar mais projetos, basta seguir o formato acima adicionando uma nova linha de lista)*
 
 ---
 
