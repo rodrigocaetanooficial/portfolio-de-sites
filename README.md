@@ -73,9 +73,8 @@ Busco oportunidades **CLT 100% remotas** como AI Engineer, Gerente de Projetos d
 | Idioma | Nível |
 |---|---|
 | 🇧🇷 Português | Nativo |
-| 🇺🇸 Inglês | Fluente (profissional) |
+| 🇺🇸 Inglês | Avançado |
 | 🇪🇸 Espanhol | Intermediário |
-| 🇮🇹 Italiano | Básico |
 
 ---
 
