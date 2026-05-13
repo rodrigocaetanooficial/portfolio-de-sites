@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.viaweb.pro/portfolio-de-sites/" target="_blank">Acessar Portfólio Original (ViaWeb)</a>
+  <a href="https://www.viaweb.pro/portfolio-de-sites/">Acessar Portfólio Original (ViaWeb)</a>
 </p>
 
 ---
@@ -28,209 +28,17 @@ Este repositório serve como uma vitrine simplificada do meu trabalho como desen
 
 Clique em qualquer imagem para visitar o site:
 
-<table style="width:100%; border-collapse:collapse; table-layout:fixed;">
-  <tr>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.alchemyrecruitment.com.au" target="_blank">
-          <img src="screenshots/alchemyrecruitment.png" alt="Alchemy Recruitment" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Alchemy Recruitment</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.arq-urb.com/" target="_blank">
-          <img src="screenshots/arq-urb.png" alt="Arquitetos Urbanistas" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Arquitetos Urbanistas</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.inexistentman.net/" target="_blank">
-          <img src="screenshots/inexistentman.png" alt="Blog do Inexistent Man" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Blog do Inexistent Man</strong>
-        </a>
-      </td>
-  </tr>
-  <tr>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.brv360.com" target="_blank">
-          <img src="screenshots/brv360.png" alt="BRV360" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>BRV360</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.caetanobilhar.com.br/" target="_blank">
-          <img src="screenshots/caetanobilhar.png" alt="Caetano Bilhar" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Caetano Bilhar</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.clinicacarlosgomes.med.br" target="_blank">
-          <img src="screenshots/clinicacarlosgomes.png" alt="Clínica Carlos Gomes" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Clínica Carlos Gomes</strong>
-        </a>
-      </td>
-  </tr>
-  <tr>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="http://www.criativodegalochas.com.br/" target="_blank">
-          <img src="screenshots/criativodegalochas.png" alt="Criativo de Galochas" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Criativo de Galochas</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="http://www.digitalcopysolucoes.com/" target="_blank">
-          <img src="screenshots/digitalcopy.png" alt="Digital Copy Soluções" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Digital Copy Soluções</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="http://www.digitaldreamsfm.com/" target="_blank">
-          <img src="screenshots/digitaldreamsfm.png" alt="DigitalDreams FM" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>DigitalDreams FM</strong>
-        </a>
-      </td>
-  </tr>
-  <tr>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.egecongarantidora.com" target="_blank">
-          <img src="screenshots/egecon.png" alt="Egecon Garantidora" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Egecon Garantidora</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.engeferr.com" target="_blank">
-          <img src="screenshots/engeferr.png" alt="Engeferr Estruturas Metálicas" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Engeferr Estruturas Metálicas</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.eliteprinters.com.br/" target="_blank">
-          <img src="screenshots/eliteprinters.png" alt="Elite Printers" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Elite Printers</strong>
-        </a>
-      </td>
-  </tr>
-  <tr>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.claudiacaetano.fst.br/" target="_blank">
-          <img src="screenshots/claudiacaetano.png" alt="Fisioterapeuta Claudia Caetano" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Fisioterapeuta Claudia Caetano</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.gobbilanziotti.com.br/" target="_blank">
-          <img src="screenshots/gobbilanziotti.png" alt="Gobbi &amp; Lanziotti" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Gobbi &amp; Lanziotti</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.graficamoreno.com.br" target="_blank">
-          <img src="screenshots/graficamoreno.png" alt="Gráfica Moreno" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Gráfica Moreno</strong>
-        </a>
-      </td>
-  </tr>
-  <tr>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.imoveiscomerciaissp.com.br" target="_blank">
-          <img src="screenshots/imoveiscomerciais.png" alt="Imóveis Comerciais SP" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Imóveis Comerciais SP</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.integrapsicologia.com.br" target="_blank">
-          <img src="screenshots/integrapsicologia.png" alt="Integra Psicologia" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Integra Psicologia</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.maringamanchete.com.br/" target="_blank">
-          <img src="screenshots/maringamanchete.png" alt="Maringá Manchete" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Maringá Manchete</strong>
-        </a>
-      </td>
-  </tr>
-  <tr>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.orcamentti.com/" target="_blank">
-          <img src="screenshots/orcamentti.png" alt="Orçamentti" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Orçamentti</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="http://www.mvpavan.com.br/" target="_blank">
-          <img src="screenshots/pavanfotografia.png" alt="Pavan Fotografia" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Pavan Fotografia</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.plantaomaringa.com" target="_blank">
-          <img src="screenshots/plantaomaringa.png" alt="Plantão Maringá" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Plantão Maringá</strong>
-        </a>
-      </td>
-  </tr>
-  <tr>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.podologamaringa.com.br" target="_blank">
-          <img src="screenshots/podologiamaringa.png" alt="Podologia Cláudia Caetano" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Podologia Cláudia Caetano</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.maringapodologia.com.br/" target="_blank">
-          <img src="screenshots/podologistaelaine.png" alt="Podologista Elaine Amaral" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Podologista Elaine Amaral</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.prospecbrindes.com.br" target="_blank">
-          <img src="screenshots/prospecbrindes.png" alt="Prospec Brindes" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Prospec Brindes</strong>
-        </a>
-      </td>
-  </tr>
-  <tr>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.sepultados.com/" target="_blank">
-          <img src="screenshots/sepultados.png" alt="Sepultados.com" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>Sepultados.com</strong>
-        </a>
-      </td>
-
-      <td align="center" style="padding:12px; vertical-align:top; width:33.33%">
-        <a href="https://www.textwizard.tools" target="_blank">
-          <img src="screenshots/textwizard.png" alt="TextWizard" style="width:100%; max-width:380px; border-radius:6px; border:1px solid #ccc; box-shadow:2px 2px 8px rgba(0,0,0,0.1);" />
-          <br /><strong>TextWizard</strong>
-        </a>
-      </td>
-<td style="padding:12px; width:33.33%"></td>
-  </tr>
-</table>
+   |    |   
+:---: | :---: | :---:
+[![Alchemy Recruitment](screenshots/alchemyrecruitment.png)](https://www.alchemyrecruitment.com.au)<br>**Alchemy Recruitment** | [![Arquitetos Urbanistas](screenshots/arq-urb.png)](https://www.arq-urb.com/)<br>**Arquitetos Urbanistas** | [![Blog do Inexistent Man](screenshots/inexistentman.png)](https://www.inexistentman.net/)<br>**Blog do Inexistent Man**
+[![BRV360](screenshots/brv360.png)](https://www.brv360.com)<br>**BRV360** | [![Caetano Bilhar](screenshots/caetanobilhar.png)](https://www.caetanobilhar.com.br/)<br>**Caetano Bilhar** | [![Clínica Carlos Gomes](screenshots/clinicacarlosgomes.png)](https://www.clinicacarlosgomes.med.br)<br>**Clínica Carlos Gomes**
+[![Criativo de Galochas](screenshots/criativodegalochas.png)](http://www.criativodegalochas.com.br/)<br>**Criativo de Galochas** | [![Digital Copy Soluções](screenshots/digitalcopy.png)](http://www.digitalcopysolucoes.com/)<br>**Digital Copy Soluções** | [![DigitalDreams FM](screenshots/digitaldreamsfm.png)](http://www.digitaldreamsfm.com/)<br>**DigitalDreams FM**
+[![Egecon Garantidora](screenshots/egecon.png)](https://www.egecongarantidora.com)<br>**Egecon Garantidora** | [![Engeferr Estruturas Metálicas](screenshots/engeferr.png)](https://www.engeferr.com)<br>**Engeferr Estruturas Metálicas** | [![Elite Printers](screenshots/eliteprinters.png)](https://www.eliteprinters.com.br/)<br>**Elite Printers**
+[![Fisioterapeuta Claudia Caetano](screenshots/claudiacaetano.png)](https://www.claudiacaetano.fst.br/)<br>**Fisioterapeuta Claudia Caetano** | [![Gobbi & Lanziotti](screenshots/gobbilanziotti.png)](https://www.gobbilanziotti.com.br/)<br>**Gobbi & Lanziotti** | [![Gráfica Moreno](screenshots/graficamoreno.png)](https://www.graficamoreno.com.br)<br>**Gráfica Moreno**
+[![Imóveis Comerciais SP](screenshots/imoveiscomerciais.png)](https://www.imoveiscomerciaissp.com.br)<br>**Imóveis Comerciais SP** | [![Integra Psicologia](screenshots/integrapsicologia.png)](https://www.integrapsicologia.com.br)<br>**Integra Psicologia** | [![Maringá Manchete](screenshots/maringamanchete.png)](https://www.maringamanchete.com.br/)<br>**Maringá Manchete**
+[![Orçamentti](screenshots/orcamentti.png)](https://www.orcamentti.com/)<br>**Orçamentti** | [![Pavan Fotografia](screenshots/pavanfotografia.png)](http://www.mvpavan.com.br/)<br>**Pavan Fotografia** | [![Plantão Maringá](screenshots/plantaomaringa.png)](https://www.plantaomaringa.com)<br>**Plantão Maringá**
+[![Podologia Cláudia Caetano](screenshots/podologiamaringa.png)](https://www.podologamaringa.com.br)<br>**Podologia Cláudia Caetano** | [![Podologista Elaine Amaral](screenshots/podologistaelaine.png)](https://www.maringapodologia.com.br/)<br>**Podologista Elaine Amaral** | [![Prospec Brindes](screenshots/prospecbrindes.png)](https://www.prospecbrindes.com.br)<br>**Prospec Brindes**
+[![Sepultados.com](screenshots/sepultados.png)](https://www.sepultados.com/)<br>**Sepultados.com** | [![TextWizard](screenshots/textwizard.png)](https://www.textwizard.tools)<br>**TextWizard** | 
 
 > 📱 **DigitalDreams FM** também possui um aplicativo: [Google Play](https://play.google.com/store/apps/details?id=com.digitaldreamsfm.player)
 
@@ -245,6 +53,6 @@ Gostou do meu trabalho ou possui um desafio de desenvolvimento? Entre em contato
 - 📱 WhatsApp: [**(44) 99898-2168**](https://wa.me/5544998982168)
 - 💼 [LinkedIn](https://linkedin.com/in/rodrigocaetanooficial)
 
-<br />
+<br>
 
 <p align="center">⭐️ Se você gostou deste repositório, não esqueça de deixar uma estrela!</p>
