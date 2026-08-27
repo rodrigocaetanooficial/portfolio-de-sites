@@ -36,10 +36,14 @@ Busco oportunidades **CLT 100% remotas** como AI Engineer, Gerente de Projetos d
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 ![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square&logo=openai&logoColor=white)
@@ -83,26 +87,57 @@ Busco oportunidades **CLT 100% remotas** como AI Engineer, Gerente de Projetos d
 | Projeto | Destaque |
 |---|---|
 | 🎵 [**DigitalDreams FM**](http://www.digitaldreamsfm.com/) | Rádio web e app Android com 5.000+ músicas geradas por IA. [Google Play](https://play.google.com/store/apps/details?id=com.digitaldreamsfm.player) |
+| 🤖 [**AI Music Prompt Studio**](https://ai-music.viaweb.pro) | SaaS que transforma ideias musicais em prompts técnicos prontos para Suno, Udio, Music Flow e Mureka |
 | 🖨️ [**Elite Printers**](https://www.eliteprinters.com.br/) | E-commerce WooCommerce para venda e manutenção de impressoras |
-| 🏢 [**Imóveis Comerciais SP**](https://www.imoveiscomerciaissp.com.br) | Plataforma customizada que impulsionou locação e venda de imóveis comerciais |
 
 ---
 
-## 📂 Portfólio Completo de Sites
+## 📂 Portfólio de Sites
 
-Clique em qualquer imagem para visitar o site:
+Clique na imagem para visitar o site:
 
-|| | |
-|:---:|:---:|:---:|
-| [![Alchemy Recruitment](screenshots/alchemyrecruitment.png)](https://www.alchemyrecruitment.com.au)<br>**Alchemy Recruitment** | [![Arquitetos Urbanistas](screenshots/arq-urb.png)](https://www.arq-urb.com/)<br>**Arquitetos Urbanistas** | [![Blog do Inexistent Man](screenshots/inexistentman.png)](https://www.inexistentman.net/)<br>**Blog do Inexistent Man** |
-| [![BRV360](screenshots/brv360.png)](https://www.brv360.com)<br>**BRV360** | [![Caetano Bilhar](screenshots/caetanobilhar.png)](https://www.caetanobilhar.com.br/)<br>**Caetano Bilhar** | [![Clínica Carlos Gomes](screenshots/clinicacarlosgomes.png)](https://www.clinicacarlosgomes.med.br)<br>**Clínica Carlos Gomes** |
-| [![Criativo de Galochas](screenshots/criativodegalochas.png)](http://www.criativodegalochas.com.br/)<br>**Criativo de Galochas** | [![Digital Copy Soluções](screenshots/digitalcopy.png)](http://www.digitalcopysolucoes.com/)<br>**Digital Copy Soluções** | [![DigitalDreams FM](screenshots/digitaldreamsfm.png)](http://www.digitaldreamsfm.com/)<br>**DigitalDreams FM** |
-| [![Egecon Garantidora](screenshots/egecon.png)](https://www.egecongarantidora.com)<br>**Egecon Garantidora** | [![Engeferr Estruturas Metálicas](screenshots/engeferr.png)](https://www.engeferr.com)<br>**Engeferr Estruturas Metálicas** | [![Elite Printers](screenshots/eliteprinters.png)](https://www.eliteprinters.com.br/)<br>**Elite Printers** |
-| [![Fisioterapeuta Claudia Caetano](screenshots/claudiacaetano.png)](https://www.claudiacaetano.fst.br/)<br>**Fisioterapeuta Claudia Caetano** | [![Gobbi & Lanziotti](screenshots/gobbilanziotti.png)](https://www.gobbilanziotti.com.br/)<br>**Gobbi & Lanziotti** | [![Gráfica Moreno](screenshots/graficamoreno.png)](https://www.graficamoreno.com.br)<br>**Gráfica Moreno** |
-| [![Imóveis Comerciais SP](screenshots/imoveiscomerciais.png)](https://www.imoveiscomerciaissp.com.br)<br>**Imóveis Comerciais SP** | [![Integra Psicologia](screenshots/integrapsicologia.png)](https://www.integrapsicologia.com.br)<br>**Integra Psicologia** | [![Maringá Manchete](screenshots/maringamanchete.png)](https://www.maringamanchete.com.br/)<br>**Maringá Manchete** |
-| [![Orçamentti](screenshots/orcamentti.png)](https://www.orcamentti.com/)<br>**Orçamentti** | [![Pavan Fotografia](screenshots/pavanfotografia.png)](http://www.mvpavan.com.br/)<br>**Pavan Fotografia** | [![Plantão Maringá](screenshots/plantaomaringa.png)](https://www.plantaomaringa.com)<br>**Plantão Maringá** |
-| [![Podologia Cláudia Caetano](screenshots/podologiamaringa.png)](https://www.podologamaringa.com.br)<br>**Podologia Cláudia Caetano** | [![Podologista Elaine Amaral](screenshots/podologistaelaine.png)](https://www.maringapodologia.com.br/)<br>**Podologista Elaine Amaral** | [![Prospec Brindes](screenshots/prospecbrindes.png)](https://www.prospecbrindes.com.br)<br>**Prospec Brindes** |
-| [![Sepultados.com](screenshots/sepultados.png)](https://www.sepultados.com/)<br>**Sepultados.com** | [![TextWizard](screenshots/textwizard.png)](https://www.textwizard.tools)<br>**TextWizard** |  |
+### 🤖 Aplicações Web & IA
+
+| Screenshot | Site | O que foi realizado |
+|:---:|:---|:---|
+| [<img src="screenshots/digitaldreamsfm.png" width="220" alt="DigitalDreams FM">](http://www.digitaldreamsfm.com/) | [**DigitalDreams FM**](http://www.digitaldreamsfm.com/) | Rádio web 24/7 com música **100% gerada por IA**: site institucional (WordPress), web player (Next.js) e app Android publicado no Google Play, com mais de 5.000 músicas, sistema de votação, comentários e perfis de ouvintes. |
+| [<img src="screenshots/player-digitaldreamsfm.png" width="220" alt="DigitalDreams FM Player">](https://player.digitaldreamsfm.com) | [**DigitalDreams FM Player**](https://player.digitaldreamsfm.com) | Web player em Next.js com streaming contínuo 24/7, integrado ao site e ao app Android da DigitalDreams FM. |
+| [<img src="screenshots/ai-music-viaweb.png" width="220" alt="AI Music Prompt Studio">](https://ai-music.viaweb.pro) | [**AI Music Prompt Studio**](https://ai-music.viaweb.pro) | SaaS em Next.js que converte ideias musicais em prompts técnicos estruturados (BPM, gênero, instrumentação, mixagem) para **Suno, Udio, Music Flow, Mureka e Happy Shrimp**, com múltiplos provedores de IA (OpenRouter/Groq), autenticação e deploy automatizado em VPS. |
+| [<img src="screenshots/textwizard.png" width="220" alt="TextWizard">](https://www.textwizard.tools) | [**TextWizard**](https://www.textwizard.tools) | Suite de ferramentas de texto gratuitas (conversão, encoding, formatação e manipulação) **100% no navegador, sem login**, construída em Next.js/TypeScript. |
+
+### 🛒 E-commerces (WooCommerce)
+
+| Screenshot | Site | O que foi realizado |
+|:---:|:---|:---|
+| [<img src="screenshots/dafneebeauty.png" width="220" alt="Dafnee Beauty">](https://www.dafneebeauty.com) | [**Dafnée Beauty**](https://www.dafneebeauty.com) | E-commerce de cosméticos e beleza: catálogo de produtos, checkout com parcelamento em até 12x, frete para todo o Brasil com retirada em Maringá, integração com WhatsApp e assessoria farmacêutica. |
+| [<img src="screenshots/eliteprinters.png" width="220" alt="Elite Printers">](https://www.eliteprinters.com.br/) | [**Elite Printers**](https://www.eliteprinters.com.br/) | E-commerce + serviços para o mercado de impressão: venda de impressoras usadas e revisadas, peças, suprimentos e manutenção em Maringá. |
+| [<img src="screenshots/if3d.png" width="220" alt="IF3D">](https://www.if3d.com.br) | [**IF3D**](https://www.if3d.com.br) | E-commerce de filamentos para impressão 3D (PLA, PETG, ABS, TPU) e impressoras (Bambu Lab, Flashforge): catálogo completo, parcelamento em 12x, envio para todo o Brasil e migração de infraestrutura de hospedagem. |
+| [<img src="screenshots/graficamoreno.png" width="220" alt="Gráfica Moreno">](https://www.graficamoreno.com.br) | [**Gráfica Moreno**](https://www.graficamoreno.com.br) | Site institucional + catálogo WooCommerce de embalagens e materiais gráficos (caixas personalizadas, tags para roupas, triedos, folhetos, envelopes), com orçamento via WhatsApp. |
+
+### 🏥 Saúde & Bem-estar
+
+| Screenshot | Site | O que foi realizado |
+|:---:|:---|:---|
+| [<img src="screenshots/clinicacarlosgomes.png" width="220" alt="Clínica Carlos Gomes">](https://www.clinicacarlosgomes.med.br) | [**Clínica Carlos Gomes**](https://www.clinicacarlosgomes.med.br) | Site institucional de clínica multidisciplinar em Maringá: especialidades, corpo clínico, convênios e agendamento de consultas, com foco em SEO local e conversão. |
+| [<img src="screenshots/podologamaringa.png" width="220" alt="Podóloga Cláudia Caetano">](https://www.podologamaringa.com.br/) | [**Podóloga Cláudia Caetano**](https://www.podologamaringa.com.br/) | Site profissional de podologia: apresentação de serviços, diferenciais e agendamento direto via WhatsApp, otimizado para busca local em Maringá. |
+| [<img src="screenshots/podologistaelaine.png" width="220" alt="Podóloga Elaine Amaral">](https://www.maringapodologia.com.br/) | [**Podóloga Elaine Amaral**](https://www.maringapodologia.com.br/) | Site profissional com catálogo de tratamentos (fotobiomodulação, onicocriptose, pés diabéticos, verruga plantar), atendimento home care e agendamento via WhatsApp. |
+| [<img src="screenshots/integrapsicologia.png" width="220" alt="Integra Psicologia">](https://www.integrapsicologia.com.br) | [**Integra Psicologia**](https://www.integrapsicologia.com.br) | Site de consultório de psicologia: psicoterapia online e presencial para adultos e adolescentes, terapia individual, de casal/familiar, avaliação psicológica e grupos terapêuticos, com agendamento. |
+
+### 🏢 Institucionais & Serviços
+
+| Screenshot | Site | O que foi realizado |
+|:---:|:---|:---|
+| [<img src="screenshots/blackbridgebusiness.png" width="220" alt="Black Bridge Business">](https://blackbridgebusiness.com) | [**Black Bridge Business**](https://blackbridgebusiness.com) | Site institucional de consultoria em exportação e importação de commodities: apresentação de serviços de viabilidade financeira e logística, com apelo visual corporativo e foco em geração de leads. |
+| [<img src="screenshots/caetanobilhar.png" width="220" alt="Caetano Bilhar">](https://www.caetanobilhar.com.br/) | [**Caetano Bilhar**](https://www.caetanobilhar.com.br/) | Site institucional com vitrine de mesas de bilhar novas e usadas, locação, reforma e acessórios, otimizado para busca local em Assis e região. |
+| [<img src="screenshots/digitalcopy.png" width="220" alt="Digital Copy Soluções">](http://www.digitalcopysolucoes.com/) | [**Digital Copy Soluções**](http://www.digitalcopysolucoes.com/) | Site de locação de impressoras em Maringá: planos e benefícios de redução de custos, suporte especializado e formulário de orçamento. |
+| [<img src="screenshots/gobbilanziotti.png" width="220" alt="Gobbi & Lanziotti">](https://www.gobbilanziotti.com.br/) | [**Gobbi & Lanziotti**](https://www.gobbilanziotti.com.br/) | Site institucional de empresa de cobranças: soluções (departamento jurídico, cobrança extrajudicial e judicial), diferenciais, carteira de clientes e atendimento via WhatsApp. |
+| [<img src="screenshots/egecon.png" width="220" alt="Egecon Garantidora">](https://www.egecongarantidora.com) | [**Egecon Garantidora**](https://www.egecongarantidora.com) | Site de garantidora condominial: soluções de gestão, cobrança de taxas e combate à inadimplência, com posicionamento para o mercado de Maringá-PR. |
+
+### 📰 Portais & Mídia
+
+| Screenshot | Site | O que foi realizado |
+|:---:|:---|:---|
+| [<img src="screenshots/maringamanchete.png" width="220" alt="Maringá Manchete">](https://www.maringamanchete.com.br/) | [**Maringá Manchete**](https://www.maringamanchete.com.br/) | Portal de notícias de Maringá e região: estrutura editorial com categorias, redação diária, SEO on-page e performance para alto volume de conteúdo. |
 
 ---
 
