@@ -16,13 +16,17 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Engenheiro de Software com **mais de 20 anos de experiência prática** em desenvolvimento web, especializado em WordPress customizado, WooCommerce e soluções digitais para empresas e profissionais liberais.
+Engenheiro de Software formado pela **UNOPAR (2024)**, com **mais de 25 anos de experiência prática** em desenvolvimento de sistemas, em **transição avançada para Inteligência Artificial Generativa** — com foco em Prompt Engineering, automações e soluções de GenAI aplicadas em produtos reais.
 
-Trabalhando como autônomo na **ViaWeb** desde o início da carreira digital, entreguei **mais de 60 projetos completos**, incluindo sites institucionais, portfólios, blogs e e-commerces otimizados para conversão, performance, SEO e responsividade.
+**Destaque atual:** idealizador e desenvolvedor da **DigitalDreams FM** (2026), plataforma de rádio web e app Android com **mais de 5.000 músicas geradas por IA** — responsável por toda a arquitetura, integração de modelos de IA, prompt engineering e desenvolvimento completo da solução. Além da plataforma, gera conteúdo com IA para redes sociais: **+18 mil seguidores no Instagram** com imagens e músicas criadas por inteligência artificial.
 
-Atualmente em **transição para Inteligência Artificial**: especializando-me em IA Generativa, Engenharia de Prompt e aplicações práticas de IA em automações, desenvolvimento e otimização de processos. Líder do desenvolvimento da **DigitalDreamsFM**, plataforma pioneira de rádio web e app Android com mais de 5 mil músicas geradas por IA.
+**Experiência web:** fundador e principal desenvolvedor da **ViaWeb** desde 2009, com **mais de 60 projetos entregues** em WordPress, WooCommerce e soluções customizadas. Especialista em customizações PHP, Elementor, ACF, SEO (Rank Math) e otimização de performance.
 
-Busco oportunidades **CLT 100% remotas** como AI Engineer, Gerente de Projetos de TI ou Tech Lead.
+**Desenvolvimento com IA:** trabalho com agentes de IA (**Hermes Agent**), integração de modelos de linguagem (LLMs/GenAI), automações com IA e infraestrutura própria em **VPS** (Docker, Nginx, PM2, MySQL) — do deploy à manutenção de aplicações de IA em produção.
+
+Pós-graduado em **Gerenciamento de Projetos de TI (MBA)**, com gestão empresarial de 1998 a 2024 em empresas familiares (Caetano Bilhar & La Bella Festa).
+
+Busco oportunidades **remotas ou híbridas** como **Engenheiro de IA/GenAI**, AI Engineer ou Gerente de Projetos de TI.
 
 📍 Maringá, Paraná, Brasil
 
@@ -57,18 +61,22 @@ Busco oportunidades **CLT 100% remotas** como AI Engineer, Gerente de Projetos d
 | Instituição | Curso | Período |
 |---|---|---|
 | **UNOPAR** | Bacharelado em Engenharia de Software | 2021 - 2024 |
-| **FAVENI** | Pós-Graduação MBA em Gerenciamento de Projetos de TI | 2022 - 2023 |
-| **UNOPAR** | Tecnólogo em Processos Gerenciais | 2009 - 2011 |
+| **FAVENI** | Pós-Graduação MBA em Gerenciamento de Projetos de TI | 2022 - 2024 |
+| **UNOPAR** | Tecnólogo em Processos Gerenciais | 2008 - 2010 |
 | **FEMA - Assis** | Processamento de Dados / TI | 1998 - 1999 |
 
 ---
 
 ## 📜 Certificações
 
+- 🤖 **Engenharia de Prompts na AWS com Claude** (DIO, 2024)
+- 📊 **Formação Engenharia de Dados: Domine Big Data!** (Udemy, 2025)
+- 🧪 **Formação Cientista de Dados** (Udemy, 2025)
+- 🧠 **Curso de Inteligência Artificial - Google Cloud** (2024)
+- 🐍 **Python 3: Do Básico ao Avançado** (Udemy, 2024)
 - 🏅 **Formação Scrum Master Specialist**
-- 🏅 **Desvendando a Blockchain**
-- 🏅 **Curso de Inteligência Artificial - Google Cloud**
-- 🏅 **DevOps - Gestão de Infraestrutura de TI**
+- ⚙️ **DevOps - Gestão de Infraestrutura de TI**
+- 🔗 **Desvendando a Blockchain**
 
 ---
 
@@ -77,8 +85,8 @@ Busco oportunidades **CLT 100% remotas** como AI Engineer, Gerente de Projetos d
 | Idioma | Nível |
 |---|---|
 | 🇧🇷 Português | Nativo |
-| 🇺🇸 Inglês | Avançado |
-| 🇪🇸 Espanhol | Intermediário |
+| 🇺🇸 Inglês | Intermediário Avançado |
+| 🇪🇸 Espanhol | Básico |
 
 ---
 
