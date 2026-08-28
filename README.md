@@ -139,6 +139,7 @@ Clique na imagem para visitar o site. Para cada projeto: **stack utilizada, recu
 
 Gostou do meu trabalho ou possui um desafio de desenvolvimento? Vamos conversar!
 
+- 📄 [Currículo (PDF)](curriculo.pdf)
 - 🌐 [ViaWeb (Meu Site)](https://www.viaweb.pro/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigocaetanooficial/)
 - 🐙 [GitHub](https://github.com/rodrigocaetanooficial)
